@@ -1,0 +1,155 @@
+{
+    "id": "pioneers_1920s",
+    "title": "Pioneers of the 1920s - The Golden Age of Football",
+    "era": "1920s",
+    "players": {
+      "1": {
+        "id": "1",
+        "name": "Dixie Dean",
+        "full_name": "Dixie Dean",
+        "position": "outfield",
+        "teams": [
+          { "name": "Tranmere Rovers", "years": "1923-1925", "goals": 27 },
+          { "name": "Everton", "years": "1925-1937", "goals": 383 },
+          { "name": "Notts County", "years": "1938-1939", "goals": 3 },
+          { "name": "Sligo Rovers", "years": "1939", "goals": 10 },
+          { "name": "Huracán", "years": "1939", "goals": 1 }
+        ],
+        "goals": 424,
+        "nationality": "England",
+        "difficulty": "Medium"
+      },
+      "2": {
+        "id": "2",
+        "name": "Ricardo Zamora",
+        "full_name": "Ricardo Zamora",
+        "position": "goalkeeper",
+        "teams": [
+          { "name": "Espanyol", "years": "1916-1919" },
+          { "name": "Barcelona", "years": "1919-1922" },
+          { "name": "Espanyol", "years": "1922-1930" },
+          { "name": "Real Madrid", "years": "1930-1936" },
+          { "name": "Nice", "years": "1937-1938" }
+        ],
+        "cleansheets": "N/A",
+        "nationality": "Spain",
+        "difficulty": "Hard"
+      },
+      "3": {
+        "id": "3",
+        "name": "Hector Scarone",
+        "full_name": "Héctor Scarone",
+        "position": "outfield",
+        "teams": [
+          { "name": "Nacional", "years": "1917-1926", "goals": 161 },
+          { "name": "Barcelona", "years": "1926", "goals": 12 },
+          { "name": "Nacional", "years": "1927-1931", "goals": 105 },
+          { "name": "Inter Milan", "years": "1931-1932", "goals": 7 },
+          { "name": "Palermo", "years": "1932-1934", "goals": 13 },
+          { "name": "Nacional", "years": "1934-1939", "goals": 1 }
+        ],
+        "goals": 299,
+        "nationality": "Uruguay",
+        "difficulty": "Hard"
+      },
+      "4": {
+        "id": "4",
+        "name": "Josep Samitier",
+        "full_name": "Josep Samitier",
+        "position": "outfield",
+        "teams": [
+          { "name": "Barcelona", "years": "1919-1932", "goals": 333 },
+          { "name": "Real Madrid", "years": "1932-1934", "goals": 3 },
+          { "name": "Nice", "years": "1934-1936", "goals": 16 }
+        ],
+        "goals": 352,
+        "nationality": "Spain",
+        "difficulty": "Hard"
+      },
+      "5": {
+        "id": "5",
+        "name": "Manuel Seoane",
+        "full_name": "Manuel Seoane",
+        "position": "outfield",
+        "teams": [
+          { "name": "Independiente", "years": "1921-1933", "goals": 241 },
+          { "name": "Boca Juniors", "years": "1925", "goals": 2 }
+        ],
+        "goals": 243,
+        "nationality": "Argentina",
+        "difficulty": "Hard"
+      },
+      "6": {
+        "id": "6",
+        "name": "Jimmy McGrory",
+        "full_name": "James McGrory",
+        "position": "outfield",
+        "teams": [
+          { "name": "Third Lanark", "years": "1922", "goals": 13 },
+          { "name": "Celtic", "years": "1922-1937", "goals": 550 },
+          { "name": "Clydebank", "years": "1923", "goals": 13 }
+        ],
+        "goals": 576,
+        "nationality": "Scotland",
+        "difficulty": "Hard"
+      },
+      "7": {
+        "id": "7",
+        "name": "Arthur Friedenreich",
+        "full_name": "Arthur Friedenreich",
+        "position": "outfield",
+        "teams": [
+          { "name": "Ypiranga", "years": "1917-1929" },
+          { "name": "Paulistano", "years": "1929" },
+          { "name": "São Paulo", "years": "1930-1935" },
+          { "name": "Santos", "years": "1935" },
+          { "name": "Flamengo", "years": "1936" }
+        ],
+        "goals": "Over 500 (estimates vary widely)",
+        "nationality": "Brazil",
+        "difficulty": "Hard"
+      },
+      "8": {
+        "id": "8",
+        "name": "Jose Leandro Andrade",
+        "full_name": "José Leandro Andrade",
+        "position": "outfield",
+        "teams": [
+          { "name": "Bella Vista", "years": "1921-1925" },
+          { "name": "Nacional", "years": "1925-1930" },
+          { "name": "Peñarol", "years": "1930-1935" },
+          { "name": "Atlanta", "years": "1936" }
+        ],
+        "goals": "N/A (Defender)",
+        "nationality": "Uruguay",
+        "difficulty": "Hard"
+      },
+      "9": {
+        "id": "9",
+        "name": "Matthias Sindelar",
+        "full_name": "Matthias Sindelar",
+        "position": "outfield",
+        "teams": [
+          { "name": "Hertha Vienna", "years": "1924-1926" },
+          { "name": "FK Austria Wien", "years": "1926-1938" }
+        ],
+        "goals": "204+ (club)",
+        "nationality": "Austria",
+        "difficulty": "Hard"
+      },
+      "10": {
+        "id": "10",
+        "name": "Pedro Petrone",
+        "full_name": "Pedro Petrone",
+        "position": "outfield",
+        "teams": [
+          { "name": "Nacional", "years": "1924-1929", "goals": 169 },
+          { "name": "Fiorentina", "years": "1931-1934", "goals": 37 },
+          { "name": "Nacional", "years": "1934-1936", "goals": 3 }
+        ],
+        "goals": 209,
+        "nationality": "Uruguay",
+        "difficulty": "Hard"
+      }
+    }
+  }

@@ -1,0 +1,147 @@
+{
+    "id": "heroes_1930s",
+    "title": "Heroes of the 1930s - The Interwar Era",
+    "era": "1930s",
+    "players": {
+      "11": {
+        "id": "11",
+        "name": "Giuseppe Meazza",
+        "full_name": "Giuseppe Meazza",
+        "position": "outfield",
+        "teams": [
+          { "name": "Inter Milan", "years": "1927-1940", "goals": 242 },
+          { "name": "AC Milan", "years": "1940-1942", "goals": 9 },
+          { "name": "Juventus", "years": "1942-1943", "goals": 10 },
+          { "name": "Varese", "years": "1944-1945", "goals": 7 },
+          { "name": "Atalanta", "years": "1945-1946", "goals": 2 },
+          { "name": "Inter Milan", "years": "1946-1947", "goals": 2 },
+          { "name": "Pro Patria", "years": "1947-1948", "goals": 6 }
+        ],
+        "goals": 278,
+        "nationality": "Italy",
+        "difficulty": "Easy"
+      },
+      "12": {
+        "id": "12",
+        "name": "Frantisek Planicka",
+        "full_name": "František Plánička",
+        "position": "goalkeeper",
+        "teams": [
+          { "name": "Slavia Prague", "years": "1923-1939" }
+        ],
+        "cleansheets": "N/A",
+        "nationality": "Czechoslovakia",
+        "difficulty": "Easy"
+      },
+      "13": {
+        "id": "13",
+        "name": "Silvio Piola",
+        "full_name": "Silvio Piola",
+        "position": "outfield",
+        "teams": [
+          { "name": "Pro Vercelli", "years": "1929-1934", "goals": 51 },
+          { "name": "Lazio", "years": "1934-1943", "goals": 143 },
+          { "name": "Torino", "years": "1945-1946", "goals": 27 },
+          { "name": "Juventus", "years": "1946-1947", "goals": 16 },
+          { "name": "Novara", "years": "1947-1954", "goals": 70 }
+        ],
+        "goals": 307,
+        "nationality": "Italy",
+        "difficulty": "Medium"
+      },
+      "14": {
+        "id": "14",
+        "name": "Leonidas da Silva",
+        "full_name": "Leônidas da Silva",
+        "position": "outfield",
+        "teams": [
+          { "name": "Bonsucesso", "years": "1931-1932", "goals": 26 },
+          { "name": "Peñarol", "years": "1933", "goals": 11 },
+          { "name": "Vasco da Gama", "years": "1934", "goals": 10 },
+          { "name": "Botafogo", "years": "1935-1936", "goals": 28 },
+          { "name": "Flamengo", "years": "1936-1941", "goals": 153 },
+          { "name": "São Paulo", "years": "1942-1950", "goals": 140 }
+        ],
+        "goals": 368,
+        "nationality": "Brazil",
+        "difficulty": "Easy"
+      },
+      "15": {
+        "id": "15",
+        "name": "Gyorgy Sarosi",
+        "full_name": "György Sárosi",
+        "position": "outfield",
+        "teams": [
+          { "name": "Ferencváros", "years": "1931-1948", "goals": 351 }
+        ],
+        "goals": 351,
+        "nationality": "Hungary",
+        "difficulty": "Hard"
+      },
+      "16": {
+        "id": "16",
+        "name": "Luis Monti",
+        "full_name": "Luis Monti",
+        "position": "outfield",
+        "teams": [
+          { "name": "Huracán", "years": "1921-1922", "goals": 0 },
+          { "name": "San Lorenzo", "years": "1922-1930", "goals": 40 },
+          { "name": "Juventus", "years": "1931-1939", "goals": 19 }
+        ],
+        "goals": 59,
+        "nationality": "Argentina / Italy",
+        "difficulty": "Medium"
+      },
+      "17": {
+        "id": "17",
+        "name": "Oldrich Nejedly",
+        "full_name": "Oldřich Nejedlý",
+        "position": "outfield",
+        "teams": [
+          { "name": "Sparta Prague", "years": "1931-1941", "goals": 162 },
+          { "name": "SK Rakovník", "years": "1941-1946", "goals": 22 }
+        ],
+        "goals": 184,
+        "nationality": "Czechoslovakia",
+        "difficulty": "Medium"
+      },
+      "18": {
+        "id": "18",
+        "name": "Enrique Guaita",
+        "full_name": "Enrique Guaita",
+        "position": "outfield",
+        "teams": [
+          { "name": "Estudiantes", "years": "1929-1933", "goals": 54 },
+          { "name": "Roma", "years": "1933-1935", "goals": 29 },
+          { "name": "Racing Club", "years": "1936-1939", "goals": 54 }
+        ],
+        "goals": 137,
+        "nationality": "Arg/Ita",
+        "difficulty": "Hard"
+      },
+      "19": {
+        "id": "19",
+        "name": "Tore Keller",
+        "full_name": "Tore Keller",
+        "position": "outfield",
+        "teams": [
+          { "name": "IK Sleipner", "years": "1924-1940", "goals": 147 }
+        ],
+        "goals": 147,
+        "nationality": "Sweden",
+        "difficulty": "Hard"
+      },
+      "20": {
+        "id": "20",
+        "name": "Bernard Voorhoof",
+        "full_name": "Bernard Voorhoof",
+        "position": "outfield",
+        "teams": [
+          { "name": "Lierse", "years": "1927-1948", "goals": 350 }
+        ],
+        "goals": 350,
+        "nationality": "Belgium",
+        "difficulty": "Hard"
+      }
+    }
+  }

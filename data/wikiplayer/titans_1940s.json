@@ -1,0 +1,153 @@
+{
+    "id": "titans_1940s",
+    "title": "Titans of the 1940s - The Rebirth of the Game",
+    "era": "1940s",
+    "players": {
+      "31": {
+        "id": "31",
+        "name": "Telmo Zarra",
+        "full_name": "Telmo Zarra",
+        "position": "outfield",
+        "teams": [
+          { "name": "Erandio", "years": "1939-1940", "goals": "N/A" },
+          { "name": "Athletic Bilbao", "years": "1940-1955", "goals": 251 },
+          { "name": "Indautxu", "years": "1955-1956", "goals": 16 },
+          { "name": "Barakaldo", "years": "1956-1957", "goals": 10 }
+        ],
+        "goals": 277,
+        "nationality": "Spain",
+        "difficulty": "Easy"
+      },
+      "32": {
+        "id": "32",
+        "name": "Jose Manuel Moreno",
+        "full_name": "José Manuel Moreno",
+        "position": "outfield",
+        "teams": [
+          { "name": "River Plate", "years": "1935-1944", "goals": 140 },
+          { "name": "México F.C.", "years": "1944-1946", "goals": 23 },
+          { "name": "River Plate", "years": "1946-1948", "goals": 38 },
+          { "name": "Universidad Católica", "years": "1948-1949", "goals": 8 },
+          { "name": "River Plate", "years": "1949-1950", "goals": 12 },
+          { "name": "Deportivo Cali", "years": "1950-1951", "goals": 23 },
+          { "name": "River Plate", "years": "1951", "goals": 2 }
+        ],
+        "goals": 246,
+        "nationality": "Argentina",
+        "difficulty": "Medium"
+      },
+      "33": {
+        "id": "33",
+        "name": "Ademir de Menezes",
+        "full_name": "Ademir de Menezes",
+        "position": "outfield",
+        "teams": [
+          { "name": "Sport Recife", "years": "1939-1942", "goals": 47 },
+          { "name": "Vasco da Gama", "years": "1942-1945", "goals": 61 },
+          { "name": "Fluminense", "years": "1946-1947", "goals": 36 },
+          { "name": "Vasco da Gama", "years": "1948-1956", "goals": 244 }
+        ],
+        "goals": 388,
+        "nationality": "Brazil",
+        "difficulty": "Easy"
+      },
+      "34": {
+        "id": "34",
+        "name": "Zizinho",
+        "full_name": "Zizinho",
+        "position": "outfield",
+        "teams": [
+          { "name": "Flamengo", "years": "1939-1950", "goals": 146 },
+          { "name": "Bangu", "years": "1950-1957", "goals": 105 },
+          { "name": "São Paulo", "years": "1957-1958", "goals": 5 },
+          { "name": "Audax Italiano", "years": "1961-1962", "goals": 3 }
+        ],
+        "goals": 259,
+        "nationality": "Brazil",
+        "difficulty": "Hard"
+      },
+      "35": {
+        "id": "35",
+        "name": "Obdulio Varela",
+        "full_name": "Obdulio Varela",
+        "position": "outfield",
+        "teams": [
+          { "name": "Deportivo Juventud", "years": "1936-1937", "goals": "N/A" },
+          { "name": "Montevideo Wanderers", "years": "1938-1942", "goals": 10 },
+          { "name": "Peñarol", "years": "1943-1955", "goals": 20 }
+        ],
+        "goals": "30+",
+        "nationality": "Uruguay",
+        "difficulty": "Medium"
+      },
+      "36": {
+        "id": "36",
+        "name": "Gyula Zsengeller",
+        "full_name": "Gyula Zsengellér",
+        "position": "outfield",
+        "teams": [
+          { "name": "Salgótarjáni BTC", "years": "1935-1936", "goals": "N/A" },
+          { "name": "Újpest", "years": "1936-1947", "goals": 366 },
+          { "name": "Roma", "years": "1947-1949", "goals": 6 },
+          { "name": "Ancona", "years": "1949-1950", "goals": 6 },
+          { "name": "Deportivo Samarios", "years": "1951-1953", "goals": 33 }
+        ],
+        "goals": 411,
+        "nationality": "Hungary",
+        "difficulty": "Hard"
+      },
+      "37": {
+        "id": "37",
+        "name": "Amadeo Carrizo",
+        "full_name": "Amadeo Raúl Carrizo",
+        "position": "goalkeeper",
+        "teams": [
+          { "name": "River Plate", "years": "1945-1968" },
+          { "name": "Millonarios", "years": "1969-1970" }
+        ],
+        "cleansheets": "N/A",
+        "nationality": "Argentina",
+        "difficulty": "Medium"
+      },
+      "38": {
+        "id": "38",
+        "name": "Adolfo Pedernera",
+        "full_name": "Adolfo Pedernera",
+        "position": "outfield",
+        "teams": [
+          { "name": "Huracán", "years": "1933-1934", "goals": 5 },
+          { "name": "River Plate", "years": "1935-1946", "goals": 128 },
+          { "name": "Atlanta", "years": "1947", "goals": 0 },
+          { "name": "Huracán", "years": "1948", "goals": 4 },
+          { "name": "Millonarios", "years": "1949-1954", "goals": 78 }
+        ],
+        "goals": 215,
+        "nationality": "Argentina",
+        "difficulty": "Medium"
+      },
+      "39": {
+        "id": "39",
+        "name": "Fritz Walter",
+        "full_name": "Fritz Walter",
+        "position": "outfield",
+        "teams": [
+          { "name": "1. FC Kaiserslautern", "years": "1937-1959", "goals": 306 }
+        ],
+        "goals": 306,
+        "nationality": "West Germany",
+        "difficulty": "Easy"
+      },
+      "40": {
+        "id": "40",
+        "name": "Nat Lofthouse",
+        "full_name": "Nat Lofthouse",
+        "position": "outfield",
+        "teams": [
+          { "name": "Bolton Wanderers", "years": "1946-1960", "goals": 255 }
+        ],
+        "goals": 255,
+        "nationality": "England",
+        "difficulty": "Medium"
+      }
+    }
+  }

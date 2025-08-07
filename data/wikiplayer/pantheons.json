@@ -1,0 +1,87 @@
+[
+  {
+    "id": "pioneers_1920s",
+    "order": 1,
+    "title": "Pioneers of the 1920s - The Golden Age of Football"
+  },
+  {
+    "id": "heroes_1930s",
+    "order": 2,
+    "title": "Heroes of the 1930s - The Interwar Era"
+  },
+  {
+    "id": "titans_1940s",
+    "order": 3,
+    "title": "Titans of the 1940s - The Rebirth of the Game"
+  },
+  {
+    "id": "legends_1950s",
+    "order": 4,
+    "title": "Legends of the 1950s - The Golden Era of Individual Brilliance"
+  },
+  {
+    "id": "champions_1960s",
+    "order": 5,
+    "title": "Champions of the 1960s - The Rise of New Powers"
+  },
+  {
+    "id": "icons_1970s",
+    "order": 6,
+    "title": "Icons of the 1970s - The Total Football Revolution"
+  },
+  {
+    "id": "maestros_1980s",
+    "order": 7,
+    "title": "Maestros of the 1980s - The Rise of Global Superstars"
+  },
+  {
+    "id": "modern_era_1990s",
+    "order": 8,
+    "title": "Icons of the 1990s - The Rise of the Premier League and Beyond"
+  },
+  {
+    "id": "galacticos_2000s",
+    "order": 9,
+    "title": "The 2000s - The Age of Galácticos and Dominance"
+  },
+  {
+    "id": "rivalry_2010s",
+    "order": 10,
+    "title": "The 2010s - The Decade of Unprecedented Rivalry"
+  },
+  {
+    "id": "tactical_era_2020s",
+    "order": 11,
+    "title": "The 2020s - The Tactical Era"
+  },
+  {
+    "id": "current_dynasties",
+    "order": 12,
+    "title": "Current Dynasties - The Rise of New Superstars"
+  },
+  {
+    "id": "the_dark_arts",
+    "order": 13,
+    "title": "The Dark Arts - Masters of the Foul"
+  },
+  {
+    "id": "the_showmen",
+    "order": 14,
+    "title": "The Showmen - Pure Technical Brilliance"
+  },
+  {
+    "id": "the_engine_room",
+    "order": 15,
+    "title": "The Engine Room - The Heartbeat of the Team"
+  },
+  {
+    "id": "the_troublemakers",
+    "order": 16,
+    "title": "The Troublemakers - Infamy and Antics"
+  },
+  {
+    "id": "club_legends",
+    "order": 17,
+    "title": "Club Legends - Loyalty Until the End"
+  }
+]

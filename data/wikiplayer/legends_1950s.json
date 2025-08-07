@@ -1,0 +1,150 @@
+{
+    "id": "legends_1950s",
+    "title": "Legends of the 1950s - The Golden Era of Individual Brilliance",
+    "era": "1950s",
+    "players": {
+      "21": {
+        "id": "21",
+        "name": "Alfredo Di Stefano",
+        "full_name": "Alfredo Di Stéfano",
+        "position": "outfield",
+        "teams": [
+          { "name": "River Plate", "years": "1945-1949", "goals": 32 },
+          { "name": "Huracán", "years": "1946", "goals": 11 },
+          { "name": "Millonarios", "years": "1949-1953", "goals": 90 },
+          { "name": "Real Madrid", "years": "1953-1964", "goals": 308 },
+          { "name": "Espanyol", "years": "1964-1966", "goals": 11 }
+        ],
+        "goals": 452,
+        "nationality": "Argentina / Spain",
+        "difficulty": "Easy"
+      },
+      "22": {
+        "id": "22",
+        "name": "Ferenc Puskas",
+        "full_name": "Ferenc Puskás",
+        "position": "outfield",
+        "teams": [
+          { "name": "Budapest Honvéd", "years": "1943-1956", "goals": 358 },
+          { "name": "Real Madrid", "years": "1958-1966", "goals": 156 }
+        ],
+        "goals": 514,
+        "nationality": "Hungary / Spain",
+        "difficulty": "Easy"
+      },
+      "23": {
+        "id": "23",
+        "name": "Lev Yashin",
+        "full_name": "Lev Yashin",
+        "position": "goalkeeper",
+        "teams": [
+          { "name": "Dynamo Moscow", "years": "1950-1970" }
+        ],
+        "cleansheets": "207",
+        "nationality": "Soviet Union",
+        "difficulty": "Easy"
+      },
+      "24": {
+        "id": "24",
+        "name": "Juan Alberto Schiaffino",
+        "full_name": "Juan Alberto Schiaffino",
+        "position": "outfield",
+        "teams": [
+          { "name": "Peñarol", "years": "1943-1954", "goals": 88 },
+          { "name": "AC Milan", "years": "1954-1960", "goals": 47 },
+          { "name": "Roma", "years": "1960-1962", "goals": 3 }
+        ],
+        "goals": 138,
+        "nationality": "Uruguay / Italy",
+        "difficulty": "Medium"
+      },
+      "25": {
+        "id": "25",
+        "name": "Stanley Matthews",
+        "full_name": "Stanley Matthews",
+        "position": "outfield",
+        "teams": [
+          { "name": "Stoke City", "years": "1932-1947", "goals": 51 },
+          { "name": "Blackpool", "years": "1947-1961", "goals": 18 },
+          { "name": "Stoke City", "years": "1961-1965", "goals": 3 }
+        ],
+        "goals": 72,
+        "nationality": "England",
+        "difficulty": "Easy"
+      },
+      "26": {
+        "id": "26",
+        "name": "Just Fontaine",
+        "full_name": "Just Fontaine",
+        "position": "outfield",
+        "teams": [
+          { "name": "USM Casablanca", "years": "1950-1953", "goals": 62 },
+          { "name": "Nice", "years": "1953-1956", "goals": 42 },
+          { "name": "Reims", "years": "1956-1962", "goals": 122 }
+        ],
+        "goals": 226,
+        "nationality": "France",
+        "difficulty": "Hard"
+      },
+      "27": {
+        "id": "27",
+        "name": "Sandor Kocsis",
+        "full_name": "Sándor Kocsis",
+        "position": "outfield",
+        "teams": [
+          { "name": "Ferencváros", "years": "1945-1950", "goals": 70 },
+          { "name": "Budapest Honvéd", "years": "1950-1956", "goals": 153 },
+          { "name": "Young Fellows Zürich", "years": "1957-1958", "goals": 7 },
+          { "name": "Barcelona", "years": "1958-1965", "goals": 42 }
+        ],
+        "goals": 272,
+        "nationality": "Hungary",
+        "difficulty": "Medium"
+      },
+      "28": {
+        "id": "28",
+        "name": "Raymond Kopa",
+        "full_name": "Raymond Kopa",
+        "position": "outfield",
+        "teams": [
+          { "name": "Angers", "years": "1949-1951", "goals": 41 },
+          { "name": "Reims", "years": "1951-1956", "goals": 47 },
+          { "name": "Real Madrid", "years": "1956-1959", "goals": 24 },
+          { "name": "Reims", "years": "1959-1967", "goals": 40 }
+        ],
+        "goals": 152,
+        "nationality": "France",
+        "difficulty": "Medium"
+      },
+      "29": {
+        "id": "29",
+        "name": "Gunnar Nordahl",
+        "full_name": "Nils Gunnar Nordahl",
+        "position": "outfield",
+        "teams": [
+          { "name": "Degerfors IF", "years": "1940-1944", "goals": 58 },
+          { "name": "IFK Norrköping", "years": "1944-1948", "goals": 93 },
+          { "name": "AC Milan", "years": "1949-1956", "goals": 210 },
+          { "name": "Roma", "years": "1956-1958", "goals": 15 }
+        ],
+        "goals": 376,
+        "nationality": "Sweden",
+        "difficulty": "Medium"
+      },
+      "30": {
+        "id": "30",
+        "name": "Didi",
+        "full_name": "Didi",
+        "position": "outfield",
+        "teams": [
+          { "name": "Fluminense", "years": "1949-1956", "goals": 91 },
+          { "name": "Botafogo", "years": "1956-1958", "goals": 40 },
+          { "name": "Real Madrid", "years": "1959-1960", "goals": 6 },
+          { "name": "Botafogo", "years": "1960-1962", "goals": 19 }
+        ],
+        "goals": 156,
+        "nationality": "Brazil",
+        "difficulty": "Medium"
+      }
+    }
+  }
